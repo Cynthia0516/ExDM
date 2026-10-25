@@ -7,7 +7,7 @@ the future influence of external driving variables.
 ## Model Architecture
 
 <p align="center">
-  <img src="assets/ExDM_architecture.png" alt="ExDM model architecture" width="100%">
+  <img src="ExDM_architecture.png" alt="ExDM model architecture" width="100%">
 </p>
 
 ## Main Work
