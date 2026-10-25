@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+torch
+causal-conv1d>=1.2.0
